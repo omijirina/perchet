@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Crema de día antiedad que restaura el volumen perdido de la piel del rostro."
+  title : "Mascarilla revitalizante de noche"
   content : "Para combatir eficazmente los cambios relacionados con la edad en la piel del rostro, es necesario, en primer lugar, pensar profundamente. Los científicos de hoy han llegado a la conclusión de que la clave para la juventud y la firmeza de la piel radica en una hidratación intensa, que apoya el metabolismo natural."
   image : "images/banner.png"
   # button
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "Acerca de nuestro producto"
-  content : "Un súper humectante reconocido es el ácido hialurónico, que puede unir grandes cantidades de agua, evitando así la sequedad, la opacidad y las arrugas."
+  content : "Revitalift Laser X3 Night Revitalizing Cream Mask es un producto de cuidado único del legendario fabricante L'Oreal Paris. La fórmula en crema desarrollada por especialistas franceses es una nueva generación de cuidados complejos anti-envejecimiento. La textura confortable de la crema-mascarilla se adapta perfectamente a la piel y es ideal para uso nocturno."
   image : "images/about.png"
 
 
@@ -68,7 +68,7 @@ advantage:
 video:
   enable : true
   title : "Cómo utilizar el producto?"
-  content : "Aplicar la cantidad necesaria de crema en el rostro con suaves movimientos de masaje."
+  content : "por la noche, aplique la crema sobre la piel limpia del rostro y el cuello."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -89,26 +89,26 @@ testimonial:
     - name : "Florentina Villca"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Me gustó la crema, veo el resultado y por eso les aconsejo a todos!"
+      content : "Compré la crema durante tres días, el resultado fue koristuvalasya Д Recomiendo la bomba de crema. Dyakuyu para un regalo es aún más aceptable y para una entrega de shvitka."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Ana Pankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "No tomo la crema por primera vez. Satisfecho. Entro al complejo durante el día."
+      content : "Buena crema. Lo uso todo el tiempo. Esto es lo que necesito para mi piel seca y madura."
       rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "Gektor Sucso"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Esta no es la primera vez que uso la crema, sin irritación, buenas sensaciones en la piel."
+      content : "La crema es suave, el olor es agradable, la piel después es aterciopelada."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Kalista Tankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Se me acercó y realmente le gustó. La piel posterior es aterciopelada."
+      content : "Esta no es la primera vez que llevo a mi mamá, ella solo pide esta crema"
       rating : "four" # rating star, one to five
